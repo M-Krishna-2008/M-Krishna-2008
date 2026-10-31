@@ -74,7 +74,11 @@ Contact ........ github.com/m-krishna-2008
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-krishna-2008&layout=compact&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=86efac&border_color=166534&hide_border=false&langs_count=5" />
+<img src="https://img.shields.io/badge/TypeScript-35%25-0d1117?style=for-the-badge&logo=typescript&logoColor=22c55e&labelColor=0d1117&color=166534" />
+<img src="https://img.shields.io/badge/Python-31%25-0d1117?style=for-the-badge&logo=python&logoColor=22c55e&labelColor=0d1117&color=166534" />
+<img src="https://img.shields.io/badge/HTML-12%25-0d1117?style=for-the-badge&logo=html5&logoColor=22c55e&labelColor=0d1117&color=166534" />
+<img src="https://img.shields.io/badge/JavaScript-10%25-0d1117?style=for-the-badge&logo=javascript&logoColor=22c55e&labelColor=0d1117&color=166534" />
+<img src="https://img.shields.io/badge/CSS-6%25-0d1117?style=for-the-badge&logo=css3&logoColor=22c55e&labelColor=0d1117&color=166534" />
 
 </div>
 
@@ -84,11 +88,11 @@ Contact ........ github.com/m-krishna-2008
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-krishna-2008&bg_color=0d1117&color=22c55e&line=16a34a&point=86efac&area=true&area_color=16a34a&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/22c55e/m-krishna-2008" alt="Contribution chart" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=m-krishna-2008&show_icons=true&theme=dark&bg_color=0d1117&title_color=22c55e&text_color=86efac&icon_color=22c55e&border_color=166534" />
+<img src="https://streak-stats.demolab.com/?user=m-krishna-2008&theme=dark&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=86efac&sideLabels=86efac&currStreakNum=22c55e&sideNums=22c55e&dates=4ade80&stroke=166534&border=166534" alt="Streak stats" />
 
 </div>
 
